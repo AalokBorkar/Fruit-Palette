@@ -1,2 +1,2 @@
 # Fruit-Palette
-Colorful Fruits using JQuery
+Colorful Fruits using JQuery.
